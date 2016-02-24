@@ -1,0 +1,16 @@
+password.py
+secret.py
+secret.ini
+*.pyc
+*.o
+*.so
+*.log
+*.log.[1-9]
+*.log.[1-9][0-9]
+*.swp
+*.swo
+*.dat
+data/
+*.egg-info/
+*.pid
+*.bak
